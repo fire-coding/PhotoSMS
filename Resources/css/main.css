@@ -1,0 +1,12 @@
+/* Sencha custom styles */
+.x-title .x-innerhtml {
+	font-size: 18px;
+}
+
+.empty_photo {
+	background: url(../img/empty_photo.png);
+	background-size: 200px;
+	opacity: .7;
+	background-position: center;
+	background-repeat: no-repeat;
+}
