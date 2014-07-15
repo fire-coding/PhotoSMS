@@ -27,5 +27,6 @@
     <plugin name="Camera" value="CDVCamera" />
     <plugin name="File" value="CDVFile" />
     <plugin name="FileTransfer" value="CDVFileTransfer" />
+    <plugin name="com.testflightapp.cordova-plugin" version="2.0.0" />
     
 </widget>
